@@ -138,3 +138,14 @@ Our data was from 2010-2019 and the movie industry was affected by the COVID-19 
 We compared movies from different years, however inflation and the amount of time a movie all have effects on box office sales
 
 
+## Repository Structure
+
+```
+├── README.md
+├── index.ipynb (main python file)
+├── presentation.pdf
+├── exploratory-will.ipynb
+├── exploratory-alex.ipynb
+├── data
+└── images
+```
